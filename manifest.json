@@ -1,0 +1,17 @@
+
+{
+  "name": "XO Online",
+  "short_name": "XO",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1f1b2e",
+  "theme_color": "#1f1b2e",
+  "description": "Play XO against friends or AI!",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
